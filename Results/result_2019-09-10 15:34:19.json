@@ -1,0 +1,57 @@
+{
+    "ubicacion": {
+        "type": "Feature",
+        "properties": {
+            "name": "Dinagat Islands"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                125.6,
+                10.1
+            ]
+        }
+    },
+    "prediccion": [
+        {
+            "fecha": "2019-12-29",
+            "Tmax": 22.5
+        },
+        {
+            "fecha": "2019-12-30",
+            "Tmax": 22.5
+        },
+        {
+            "fecha": "2019-12-31",
+            "Tmax": 22.5
+        },
+        {
+            "fecha": "2020-01-01",
+            "Tmax": 22.5
+        },
+        {
+            "fecha": "2020-01-02",
+            "Tmax": 22.5
+        },
+        {
+            "fecha": "2020-01-03",
+            "Tmax": 22.5
+        },
+        {
+            "fecha": "2020-01-04",
+            "Tmax": 22.5
+        },
+        {
+            "fecha": "2020-01-05",
+            "Tmax": 22.5
+        },
+        {
+            "fecha": "2020-01-06",
+            "Tmax": 22.5
+        },
+        {
+            "fecha": "2020-01-07",
+            "Tmax": 22.5
+        }
+    ]
+}
