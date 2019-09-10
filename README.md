@@ -2,7 +2,7 @@
 API HTTP presiccion
 
 1. Download and unzip this source repository, or clone it using Git:
-  git clone 
+  git clone https://github.com/DenysV/API_prediccion.git foldername_local
 
 2. Create virtualenv
 This is required once before installing dependencies
