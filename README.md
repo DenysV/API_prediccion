@@ -1,5 +1,18 @@
 # API_prediccion
-API HTTP presiccion
+
+API_HTTP_presiccion in Docker container
+1. Download and unzip this source repository, or clone it using Git:
+  git clone https://github.com/DenysV/API_prediccion.git foldername_local
+
+2. In foldername_local that Dockerfile run in terminal sudo docker build . -t user_name/prediccion.
+
+3. Check that image was created successfully and see its ID, run sudo docker images | grep prediccion.
+
+4. Start API-> run images: sudo docker run -p 5000:5001 ID_image.
+
+5. Start in browser 0.0.0.0:5000
+
+API_HTTP_presiccion in local
 
 1. Download and unzip this source repository, or clone it using Git:
   git clone https://github.com/DenysV/API_prediccion.git foldername_local
